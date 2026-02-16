@@ -3,12 +3,10 @@
 
 ### This project analyzes the “120 Years of Olympic History” dataset using advanced SQL techniques including:
 
-Window Functions
-CTEs
-Ranking Functions
-Time-Series Analysis
-Statistical Outlier Detection
-📊 Slightly Detailed Version (For README)
+-Window Functions
+-CTEs
+-Ranking Functions
+-Time-Series Analysis
 
 **The objective of this project is to:**
 

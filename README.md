@@ -1,5 +1,8 @@
 # Olympics_SQL_Data_Analysis
  ## Project Overview
+ <p align="center">
+  <img src="https://vocal.media/futurism/the-olympics" width="800">
+</p>
 
 ### This project analyzes the “120 Years of Olympic History” dataset using advanced SQL techniques including:
 

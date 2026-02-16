@@ -12,26 +12,27 @@ Statistical Outlier Detection
 
 **The objective of this project is to:**
 
-Analyze medal distribution across countries and sports
-Identify dominant countries per sport and season
-Detect statistical outliers in medal counts
-Measure participation growth across Olympic history
-Perform time-based trend analysis using window functions
+-Analyze medal distribution across countries and sports
+-Identify dominant countries per sport and season
+-Detect statistical outliers in medal counts
+-Measure participation growth across Olympic history
+-Perform time-based trend analysis using window functions
 
 ## 🛠 Skills Used
 
-SQL (PostgreSQL / MySQL compatible)
-Data Aggregation
-Analytical Functions
-Statistical Calculations
+-SQL (PostgreSQL / MySQL compatible)
+-Data Aggregation
+-Analytical Functions
+-Statistical Calculations
 
-## **📈 Key Insights**
+## 📊 Key Insights
 
-🏆 Most dominant country per sport
-🥇 Top 3 gold medal athletes
-📉 Outlier countries based on medal count
-⏳ Longest gap between gold medals
-📊 Growth of sports participation
+- 🥇 Most dominant country per sport  
+- 🥈 Top 3 gold medal athletes  
+- 📉 Outlier countries based on medal count  
+- ⏳ Longest gap between gold medals  
+- 📈 Growth of sports participation  
+
 
 📂 Dataset
 Source: Kaggle

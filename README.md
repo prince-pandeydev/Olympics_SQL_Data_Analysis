@@ -4,35 +4,33 @@
 ### This project analyzes the “120 Years of Olympic History” dataset using advanced SQL techniques including:
 
 Window Functions
-
 CTEs
-
 Ranking Functions
-
 Time-Series Analysis
-
 Statistical Outlier Detection
+📊 Slightly Detailed Version (For README)
 
-🛠 Skills Used
+**The objective of this project is to:**
+
+Analyze medal distribution across countries and sports
+Identify dominant countries per sport and season
+Detect statistical outliers in medal counts
+Measure participation growth across Olympic history
+Perform time-based trend analysis using window functions
+
+## 🛠 Skills Used
 
 SQL (PostgreSQL / MySQL compatible)
-
 Data Aggregation
-
 Analytical Functions
-
 Statistical Calculations
 
-📈 Key Insights
+## **📈 Key Insights**
 
 🏆 Most dominant country per sport
-
 🥇 Top 3 gold medal athletes
-
 📉 Outlier countries based on medal count
-
 ⏳ Longest gap between gold medals
-
 📊 Growth of sports participation
 
 📂 Dataset
@@ -41,14 +39,7 @@ Link: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athl
 
 Dataset: 120 Years of Olympic History
 
-🚀 Author
+## 🚀 Author
 
-Prince Pandey
+**Prince Pandey**
 Aspiring Data Analyst | SQL Enthusiast
-
-🔥 Step 4: Add Screenshots
-
-### 🌍 Most Dominant Country Per Sport
-![Dominant Country]("C:\Users\princ\OneDrive\Pictures\Screenshots\Screenshot 2026-02-16 154129.png")
-
-Run 4–5 queries in P
